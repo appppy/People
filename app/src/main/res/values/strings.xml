@@ -1,0 +1,107 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Contacts</string>
+
+    <string name="trans_name" translatable="false">list_to_detail</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="loading">loading…</string>
+
+    <!-- navigation -->
+    <string name="contact">Contact</string>
+    <string name="call">Call</string>
+    <string name="send">Send</string>
+    <string name="note">Note</string>
+    <string name="archive">Archive</string>
+    <string name="trash">Trash</string>
+    <string name="file">File</string>
+    <string name="history">History</string>
+    <string name="recent">Recent</string>
+
+    <!-- menu -->
+    <string name="open">Open</string>
+    <string name="delete">Delete</string>
+    <string name="open_from">Open from</string>
+    <string name="search">Search</string>
+    <string name="unarchive">UnArchive</string>
+    <string name="open_folder">Open Folder</string>
+    <string name="open_history">Open History</string>
+    <string name="restore">Restore</string>
+    <string name="empty">Empty Trash</string>
+    <string name="sync">Sync</string>
+    <string name="contacts">Contacts</string>
+    <string name="list">View as List</string>
+    <string name="grid">View as Grid</string>
+    <string name="select_all">Select all items</string>
+    <string name="copy">Make a copy</string>
+    <string name="share">Share</string>
+    <string name="sort">Sort by</string>
+    <string name="swap_vert">Revers</string>
+    <string name="by_name">Name</string>
+    <string name="by_date_created">Last created</string>
+    <string name="by_date_modified">Last modified</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="save">Save As…</string>
+    <string name="select_color">Select Color</string>
+    <string name="edit">Edit</string>
+    <string name="info">Details…</string>
+    <string name="empty_history">Empty History</string>
+    <string name="leave_history">Leave History</string>
+    <string name="backup">Backup</string>
+
+    <string name="white">White</string>
+    <string name="red">Red</string>
+    <string name="pink">Pink</string>
+    <string name="purple">Purple</string>
+    <string name="deep_purple">Deep Purple</string>
+    <string name="indigo">Indigo</string>
+    <string name="blue">Blue</string>
+    <string name="light_blue">Light Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="teal">Teal</string>
+    <string name="green">Green</string>
+    <string name="light_green">Light Green</string>
+    <string name="lime">Lime</string>
+    <string name="yellow">Yellow</string>
+    <string name="amber">Amber</string>
+    <string name="orange">Orange</string>
+    <string name="deep_orange">Deep Orange</string>
+    <string name="brown">Brown</string>
+    <string name="blue_grey">Blue Grey</string>
+    <string name="grey">Grey</string>
+
+    <!-- content -->
+    <string name="name">Name</string>
+    <string name="tel">TEL</string>
+    <string name="email">e-mail</string>
+    <string name="created_date">Created Date</string>
+    <string name="modified_date">Modified Date</string>
+    <string name="no_description">No Description</string>
+
+    <!-- Toast -->
+    <string name="undo">UNDO</string>
+    <string name="created_item">Contact created.</string>
+    <string name="copy_item">Contact copied.</string>
+    <string name="sync_item">Contact synced.</string>
+    <string name="modified_item">Contact modified.</string>
+    <string name="moved_to_archive_item">Contact archived.</string>
+    <string name="moved_to_archive_some_items">%d contacts archived.</string>
+    <string name="moved_to_trash_item">Contact moved to Trash.</string>
+    <string name="moved_to_trash_some_items">%d contacts moved to Trash.</string>
+    <string name="empty_trash_is_done">Empty trash is done.</string>
+    <string name="undo_item">Undo.</string>
+    <string name="unarchived_item">Contact unarchived.</string>
+    <string name="unarchived_some_items">%d contacts unarchived.</string>
+    <string name="restored_item">Contact restored.</string>
+    <string name="restored_some_items">%d contacts restored.</string>
+    <string name="failed_save_file">Failed!! File name is no description</string>
+    <string name="suceed_save_file">Saved</string>
+
+    <!-- Dialog -->
+    <string name="warning">Warning</string>
+    <string name="warning_message">Contact was more than the number that can be created.</string>
+    <string name="enter_file_name">Enter the file name</string>
+    <string name="no_data" tools:ignore="MissingTranslation">no data</string>
+
+</resources>
